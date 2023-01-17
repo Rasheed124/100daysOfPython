@@ -1,1 +1,3 @@
 # 100daysOfPython
+
+# JOURNEY BEGINS QUITE EASY AND FUN
